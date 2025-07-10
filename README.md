@@ -27,8 +27,8 @@ Welcome to my GitHub—I build clean data pipelines, insightful visualizations, 
 ---
 
 ## 🤝 Let’s Connect!
-- 💼 https://www.linkedin.com/in/hasnain-ansari-70176a210/  
-- 📫 Email: hasnain.ansari@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasnain-ansari-70176a210/)
+- 📫 Email: mhasnainansari15@gmail.com 
 
 ---
 
