@@ -13,7 +13,9 @@ Welcome to my GitHub—I build clean data pipelines, insightful visualizations, 
  **🛠️ Technical Skills**
 - **Programming & Data Manipulation:** Python (Pandas, NumPy), SQL, Excel  
 - **Data Visualization & BI:** Power BI (Dashboards, KPIs), Matplotlib, Seaborn  
-- **Basic ML & Analytics:** Linear Regression (Salary Prediction), Exploratory Data Analysis  
+- **ML & Analytics:** Linear Regression, Logistic Regression,  Decision Trees, Random Forest, SVM, KNN,
+KMeans, Cross-Validation(Grid Search CV), Exploratory Data Analysis
+- **Gen AI:** RAG, Langchain, Hugging Face, Vector DB
 - **Tools & Workflow:** Jupyter Notebooks, Git, GitHub, Tableau Public (optional), Data storytelling  
 
 
