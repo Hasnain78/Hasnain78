@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hasnain Ansari!
-**Aspiring Data Analyst** | Problem Solver | Eager Learner  
+**Aspiring Data Science** | Problem Solver | Eager Learner  
 Welcome to my GitHub—I build clean data pipelines, insightful visualizations, and data stories that drive decisions.
 
 
@@ -16,7 +16,7 @@ Welcome to my GitHub—I build clean data pipelines, insightful visualizations, 
 - **ML & Analytics:** Linear Regression, Logistic Regression,  Decision Trees, Random Forest, SVM, KNN,
 KMeans, Cross-Validation(Grid Search CV), Exploratory Data Analysis
 - **Gen AI:** RAG, Langchain, Hugging Face, Vector DB
-- **Tools & Workflow:** Jupyter Notebooks, Git, GitHub, Tableau Public (optional), Data storytelling  
+- **Tools & Workflow:** Jupyter Notebooks, Git, GitHub, Data storytelling  
 
 
 
